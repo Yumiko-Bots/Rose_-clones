@@ -1,26 +1,4 @@
-From: <Saved by Blink>
-Snapshot-Content-Location: https://clones.believablebots.io/static/app.js
-Subject: 
-Date: Thu, 13 Feb 2025 15:19:19 +0530
-MIME-Version: 1.0
-Content-Type: multipart/related;
-	type="text/html";
-	boundary="----MultipartBoundary--Moy6mU8Uxzkr1rbsUEVrgtlCAzyZ3qhdfTYYFUtK7e----"
-
-
-------MultipartBoundary--Moy6mU8Uxzkr1rbsUEVrgtlCAzyZ3qhdfTYYFUtK7e----
-Content-Type: text/html
-Content-ID: <frame-E43F80DCE94602D95FE6E6790857935F@mhtml.blink>
-Content-Transfer-Encoding: quoted-printable
-Content-Location: https://clones.believablebots.io/static/app.js
-
-<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
-=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-f72fa3=
-0a-070e-44e0-9209-161bd623d9f5@mhtml.blink" /><meta name=3D"color-scheme" c=
-ontent=3D"light dark"><link id=3D"via_inject_css_blocker" type=3D"text/css"=
- rel=3D"stylesheet" href=3D"https://clones.believablebots.io/via_inject_blo=
-cker.css"></head><body><pre style=3D"word-wrap: break-word; white-space: pr=
-e-wrap;">"use strict";(()=3D&gt;{var iX=3DObject.create;var oE=3DObject.def=
+"use strict";(()=3D&gt;{var iX=3DObject.create;var oE=3DObject.def=
 ineProperty;var lX=3DObject.getOwnPropertyDescriptor;var sX=3DObject.getOwn=
 PropertyNames;var cX=3DObject.getPrototypeOf,uX=3DObject.prototype.hasOwnPr=
 operty;var vt=3D(e,t)=3D&gt;()=3D&gt;(t||e((t=3D{exports:{}}).exports,t),t.=
